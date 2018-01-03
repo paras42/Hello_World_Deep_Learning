@@ -5,7 +5,7 @@ In this tutorial, we use the Tensorflow framework as it is currently the most ac
 
 We hope that this tutorial will spark interest and provide a basic starting point for those interested in machine learning in regard to medical imaging. 
 
-A Jupyter ipython notebook is provided called "hello_world_deep_learning.ipynb"
+A Jupyter ipython notebook is provided called "HelloWorldDeepLearning.ipynb"
 
 We provide 75 images, 38 are chest X-rays, and 37 are abdominal X-rays. These de-identified PNGs obtained from openI, https://openi.nlm.nih.gov/, a searchable online repository of medical images from published PubMed Central articles
 
