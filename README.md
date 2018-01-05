@@ -1,7 +1,6 @@
 # Hello_World_Deep_Learning
 
-Author: Paras Lakhani
-Contact: paras.lakhani@jefferson.edu
+Author: Paras Lakhani, paras.lakhani@jefferson.edu
 
 More details and a step-by-step guide for the tutorial can be found in the Journal of Digital Imaging Publication (ref:   ), which is the official journal of the Society of Imaging Informatics in Medicine (SIIM).
 
