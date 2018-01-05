@@ -1,6 +1,6 @@
 # Hello_World_Deep_Learning
 
-The guide to the tutorial can be found in the Journal of Digital Imaging Publication (ref:   ), which is the official journal of the Society of Imaging Informatics in Medicine (SIIM).
+More details and a step-by-step guide for the tutorial can be found in the Journal of Digital Imaging Publication (ref:   ), which is the official journal of the Society of Imaging Informatics in Medicine (SIIM).
 
 This is a high-level introduction into practical machine learning for purposes of medical image classification. 
 
