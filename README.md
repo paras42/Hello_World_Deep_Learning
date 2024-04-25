@@ -2,11 +2,11 @@
 
 Author: Paras Lakhani, paras.lakhani@jefferson.edu
 
-More details and a step-by-step guide for the tutorial can be found in the Journal of Digital Imaging Publication (ref:   ), which is the official journal of the Society of Imaging Informatics in Medicine (SIIM).
+More details and a step-by-step guide for the tutorial can be found in the Journal of Digital Imaging Publication (DOI: 10.1007/s10278-018-0079-6; https://pubmed.ncbi.nlm.nih.gov/29725961/), which is the official journal of the Society of Imaging Informatics in Medicine (SIIM).
 
 This is a high-level introduction into practical machine learning for purposes of medical image classification. 
 
-In this tutorial, we use the Tensorflow framework as it is currently the most actively used and the Keras library, which a high-level application programming interface that simplifies working with Tensorflow.
+In this tutorial, we use the Tensorflow framework and the Keras library, which a high-level application programming interface that simplifies working with Tensorflow.
 
 We hope that this tutorial will spark interest and provide a basic starting point for those interested in machine learning in regard to medical imaging. 
 
